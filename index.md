@@ -7,7 +7,7 @@ I've spent most of my working career in sales. I found joy in learning how to co
 while also allowing me to travel around the country working and living in multiple states.
 #### My primary sales industries
 - Security/Automation
-  - Worked in both residential and commercial. Providing owners protection and allowing more control over there property through technology.
+  - Worked in both residential and commercial. Providing owners protection and allowing more control over their property through technology.
 - Solar
   - Worked in provding owners with a lower energy bill while also moving to a source that's renewable
 
