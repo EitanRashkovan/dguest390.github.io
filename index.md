@@ -5,7 +5,7 @@ _Me learning golf is not as easy as it looks_
 ## Work
 I've spent most of my working career in sales. I found joy in learning how to connect with people from all walks of life;
 while also allowing me to travel around the country working and living in multiple states.
-#### My primary sales industries
+### My primary sales industries
 - Security/Automation
   - Worked in both residential and commercial. Providing owners protection and allowing more control over their property through technology.
 - Solar
@@ -15,7 +15,7 @@ while also allowing me to travel around the country working and living in multip
 After Learning how to connect with people and getting the "travel bug" out of my system, I realized that I wanted to work on something more than just conversations.
 I found myself spending my free time learning about technology and was fascinated how this is the most advanced field I will get to witness in my life time.
 I just wanted to be a part of it.
-#### This is how it started
+### This is how it started
 1. Picked up Learning Python by [Mark Lutz](https://www.oreilly.com/library/view/learning-python-5th/9781449355722/)
 2. This gave me a glimpse into programming and sparked the interest to pursue more
 3. Thought about going to a bootcamp for web development
@@ -28,7 +28,7 @@ I just wanted to be a part of it.
 ## Hobbies
 There are two other hobbies I put serious thought into turning into my future career. They aren't evolving at the remarkable pace technology is,
 but they are still fun to keep me intrested for a bit from time to time.
-##### The two other fields I enjoy but prefer to keep to hobbies
+### The two other fields I enjoy but prefer to keep to hobbies
 - Fitness
   - Really anything that gets the body moving such as running, weight lifting, or rock climbing
 - Mycology
