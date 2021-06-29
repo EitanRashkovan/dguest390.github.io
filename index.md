@@ -9,7 +9,7 @@ while also allowing me to travel around the country working and living in multip
 - Security/Automation
   - Worked in both residential and commercial. Providing owners protection and allowing more control over their property through technology.
 - Solar
-  - Worked in provding owners with a lower energy bill while also moving to a source that's renewable
+  - Worked in providing owners with a lower energy bill while also moving to a source that's renewable
 
 ## School
 After Learning how to connect with people and getting the "travel bug" out of my system, I realized that I wanted to work on something more than just conversations.
