@@ -16,7 +16,7 @@ After Learning how to connect with people and getting the "travel bug" out of my
 I found myself spending my free time learning about technology and was fascinated how this is the most advanced field I will get to witness in my life time.
 I just wanted to be a part of it.
 ### This is how it started
-1. Picked up Learning Python by [Mark Lutz](https://www.oreilly.com/library/view/learning-python-5th/9781449355722/)
+1. Picked up [Learning Python](https://www.oreilly.com/library/view/learning-python-5th/9781449355722/) by Mark Lutz
 2. This gave me a glimpse into programming and sparked the interest to pursue more
 3. Thought about going to a bootcamp for web development
 4. Decided an Associate's Degree would give me a better start so enrolled in a Computer Science AS
