@@ -1,0 +1,7 @@
+newpost:
+
+- _post/*
+
+test:
+
+- /*
